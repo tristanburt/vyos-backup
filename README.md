@@ -37,7 +37,7 @@ crontab -e
 Enter the following. Make sure to change your file path for the script
 
 ``` bash
-0 0 * * * /path/to/backup-script.sh
+0 0 * * * /path/to/vyos_backup.sh
 ```
 
 ## Description
